@@ -1,6 +1,6 @@
 # Flask_Blogs
 
-Flask is a Python web framework that helps developers create web applications. It's a microframework, which means it's small and lightweight, and doesn't require specific tools or libraries. 
+**Flask** is a Python web framework that helps developers create web applications. It's a microframework, which means it's small and lightweight, and doesn't require specific tools or libraries. 
 
 **Features:**
 Flexibility: Flask gives developers more control over their applications. 
@@ -11,7 +11,7 @@ Ease of use: Flask is designed to be easy to use and get started with quickly.
 
 Extensibility: Flask supports extensions that add features like form validation, object-relational mappers, and authentication. 
 
-**Benefits: **
+**Benefits:**
 
 Developers can build web applications quickly using a single Python file.
 
